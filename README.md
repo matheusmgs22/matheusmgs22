@@ -29,6 +29,6 @@
   <a href="www.linkedin.com/in/matheus-garcia-a1831b205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/matheusmgs22/matheusmgs22/commit/345313b3b81547b4bef28420a557c6b8cff76935)
  
 </div>
