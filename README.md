@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Garcia 👋
 
-- 🔭 Não Trabalho, por enquanto...
-- 🌱 Estudando Python
+- 🔭 Em busca de aprender e evoluir como profissional. 
+- 🌱 Estudando Python e Java 
 - 📫 Meu contato (e-mail): matheus.2019202314@unicap.br
 - ⚡ Amo Tecnologia
 
