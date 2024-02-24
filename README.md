@@ -1,26 +1,26 @@
 
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Bem-vindo!!</h1></summary>
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Bem-vindo!</h1></summary>
 </div>
 
 ###
 
 <p align="left">
-Olá, eu sou Matheus!<br/> 
+ Olá 👋, me chamo Matheus!<br/> 
 
- ###
- 
+- 💬 Eu tenho 22 anos, atualmente moro em Recife/Pernambuco - Brasil.
+- 📚 Estou me graduando em Ciência da Computação(5/8). 
+
 <details>
   <summary>👨‍💻 Mais sobre mim </summary>
 
-  - 💬 Eu tenho 22 anos, atualmente moro em Recife/Pernambuco - Brasil.
-  - 👨‍💻 Estou me graduando em Ciência da Computação(5/8). <br/>
   - 🔭 Em busca de aprender e evoluir como desenvolvedor. <br>
   - 🌱 Estudando Atualmente: C# - Java - JavaScript. <br>
   - 📫 Meu contato (e-mail): matheusmgs17@gmail.com <br>
-  - ⚡ Amo Tecnologia e Programação</p>
-  - 🎯 Gosto de muito de jogar, filmes de ficção e ler livros! 
+  - ⚡ Amo Tecnologia e Programação
+  - 🎯 Gosto de muito de jogar, ver filmes de ficção e ler livros sobre psicologia!
+  </p>
 </details>
 
 ###
@@ -42,8 +42,7 @@ Olá, eu sou Matheus!<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+## Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-garcia-a1831b205/)
 
   
