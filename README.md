@@ -6,6 +6,8 @@ My name is Matheus Garcia, I  am 23 years old and I am from São Paulo, Brazil. 
 
 ---
 
+[<img src="https://tryhackme-badges.s3.amazonaws.com/MatheusSec.png" alt="My TryHackMe" />](https://tryhackme.com/p/MatheusSec)
+
 ### 🤖 Languages and Technologies
 
 <img
