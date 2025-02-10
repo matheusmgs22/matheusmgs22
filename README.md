@@ -2,7 +2,7 @@
 
 **`Developer FullStack`**
 
-My name is Matheus Garcia, I  am 23 years old and I am from São Paulo, Brazil. I am currently in the process of completing my Bachelor's degree in Computer Science (6/8) at the Catholic University of Pernambuco (UNICAP).
+My name is Matheus Garcia, I  am 23 years old and I am from São Paulo, Brazil. I am currently in the process of completing my Bachelor's degree in Computer Science (7/8) at the Catholic University of Pernambuco (UNICAP).
 
 ---
 
