@@ -46,14 +46,6 @@ My name is Matheus Garcia, I  am 23 years old and I am from São Paulo, Brazil. 
 />
 <img
     align="left"
-    alt="React"
-    title="React"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    align="left"
     alt="Node.js"
     title="Node.js"
     width="30px"
