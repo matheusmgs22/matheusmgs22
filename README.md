@@ -8,8 +8,6 @@ My name is Matheus Garcia, I  am 23 years old and I am from São Paulo, Brazil. 
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/MatheusSec.png" alt="My TryHackMe" />](https://tryhackme.com/p/MatheusSec)
 
-<img src= />
-
 ### 🤖 Languages and Technologies
 
 <img
@@ -54,11 +52,11 @@ My name is Matheus Garcia, I  am 23 years old and I am from São Paulo, Brazil. 
 />
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Angular"
+    title="Angular"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
 />
 <img
     align="left"
@@ -70,28 +68,37 @@ My name is Matheus Garcia, I  am 23 years old and I am from São Paulo, Brazil. 
 />
 <img
     align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img
-    align="left"
-    alt="Postgre"
-    title="Postgre"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<img
-    align="left"
     alt="Java"
     title="Java"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+<img
+    align="left"
+    alt="Spring Boot"
+    title="Spring Boot"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
 
 
 <br/>
