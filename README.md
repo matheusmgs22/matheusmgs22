@@ -2,7 +2,7 @@
 
 **FullStack Developer | Computer Science Student | Cybersecurity Enthusiast**
 
-Hello! I'm **Matheus Garcia**, a 24-year-old developer from **Brazil** 🇧🇷.  
+Hello! I'm **Matheus Garcia**, a 25-year-old developer from **Brazil** 🇧🇷.  
 Currently finishing my **Bachelor’s degree in Computer Science at UNICAP (Catholic University of Pernambuco)**.
 
 I’m passionate about **software development, backend architecture, APIs and cybersecurity**.  
